@@ -34,6 +34,8 @@ Currently this project uses Proximal Policy Optimisation
     $y_i$ – money spent in i-th pair (buy sell)
     $α$ – ask function
     $k$ – is any currency held
+
+
 $$
 reward = 
 \begin{cases}
